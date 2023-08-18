@@ -1,3 +1,5 @@
+No ads. No fluff. Just simple timer written in Vue.
+
 ![image](https://github.com/wanhuz/timeleap/assets/12682216/9e45c95a-a375-4ed7-b6a5-c117336144eb)
 
 
